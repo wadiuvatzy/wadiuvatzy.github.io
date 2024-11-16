@@ -63,8 +63,6 @@ Feel free to contact me at **wadiuvatzy2003[at]gmail[dot]com**.
 
 Sreyas Venkataraman\*, Yufei Wang\*, **Ziyu Wang**, Zackory Erickson†, David Held†
 
-Submitted to [ICRA 2025](https://2025.ieee-icra.org/)
-
 [[Website]](https://sites.google.com/andrew.cmu.edu/offline-rl-vlm-f?usp=sharing) [[paper]](https://arxiv.org/abs/2411.05273)
 </div>
 </div>
@@ -89,7 +87,6 @@ Weikang Wan\*, **Ziyu Wang**\*, Yufei Wang\*, Zackory Erickson, David Held
 
 Angela Rodriguez-Izquierdo, **Ziyu Wang**, Jiahe Xu, Lifan Yu, Ben Eisner, Max Likhachev, David Held
 
-Under Submission
 
 [[Website]](https://sites.google.com/view/3d-vtamp/home) [[paper]](https://sites.google.com/view/3d-vtamp/home)
 </div>
@@ -102,7 +99,6 @@ Under Submission
 
 **Ziyu Wang**\*, Yanjie Ze\*, Yifei Sun, Zhecheng Yuan, Huazhe Xu
 
-Arxiv
 
 [[Website]](https://yanjieze.com/SAM-G/) [[code]](https://github.com/wadiuvatzy/SAM-G) [[paper]](https://arxiv.org/abs/2312.17116)
 </div>
