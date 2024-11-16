@@ -63,6 +63,8 @@ Feel free to contact me at **wadiuvatzy2003[at]gmail[dot]com**.
 
 Sreyas Venkataraman\*, Yufei Wang\*, **Ziyu Wang**, Zackory Erickson†, David Held†
 
+[LangRob](https://sites.google.com/view/langrob-corl24/) Workshop 2024 @ CoRL
+
 [[Website]](https://sites.google.com/andrew.cmu.edu/offline-rl-vlm-f?usp=sharing) [[paper]](https://arxiv.org/abs/2411.05273)
 </div>
 </div>
@@ -120,6 +122,13 @@ Angela Rodriguez-Izquierdo, **Ziyu Wang**, Jiahe Xu, Lifan Yu, Ben Eisner, Max L
 # Internships
 ---
 02/2024 - 08/2024, [RPAD](https://r-pad.github.io/) and [RCHI](https://rchi-lab.github.io/), CMU
+
+# Miscellaneous
+--- 
+
+I am passionate about sports, with a particular love for hiking, basketball, and badminton. In my free time, I also enjoy playing video games, including [Counter-Strike](https://www.counter-strike.net/go/) and [League of Legends](https://www.leagueoflegends.com/en-us/).
+
+Additionally, if you're a fan of the game [Celeste](https://www.celestegame.com/) (video game), you might enjoy [this](https://acg-group.github.io/), a 3D version of the game I created as part of my computer graphics course project.
 
 
 ---
