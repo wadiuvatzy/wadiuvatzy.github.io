@@ -41,7 +41,7 @@ Hi! I am **Ziyu Wang** (王梓昱), a senior undergraduate student at [Institute
 
 My research interests lie in the field of robot learning and reinforcement learning.  
 
-Feel free to contact me at **wadiuvatzy2003[at]gmail[dot]com**.
+I am applying for Ph.D. programs starting from Fall 2025. If you are hiring or interested in my research, please feel free to contact me at **wadiuvatzy2003[at]gmail[dot]com**.
 
 <div style="margin-top: 1em;"></div>
 
@@ -52,9 +52,23 @@ Feel free to contact me at **wadiuvatzy2003[at]gmail[dot]com**.
 <div style="margin-top: 1em;"></div>
 
 # Publications
-(* † indicates equal contribution/advising)
+(* † ‡ indicates equal contribution/advising)
 
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ArticuBot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation**
+
+Yufei Wang\*, **Ziyu Wang**\*, Mino Nakura†, Pratik Bhowal†, Chia-Liang Kuo†, Yi-Ting Chen, Zackory Erickson‡, David Held‡
+
+[[Website]](https://articubot.github.io/) [[paper]](https://arxiv.org/abs/2503.03045)
+
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Offline-RL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
