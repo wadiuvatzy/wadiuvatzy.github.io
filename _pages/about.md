@@ -47,6 +47,7 @@ I am applying for Ph.D. programs starting from Fall 2025. If you are hiring or i
 
 # News
 ---
+- *04/2025*: [ArticuBot](https://articubot.github.io/) is accepted to RSS 2025!
 - *09/2024*: [DiffTORI](https://arxiv.org/abs/2402.05421) is accepted to NeurIPS 2024 as a spotlight!
 
 <div style="margin-top: 1em;"></div>
@@ -62,6 +63,8 @@ I am applying for Ph.D. programs starting from Fall 2025. If you are hiring or i
 **ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation**
 
 Yufei Wang\*, **Ziyu Wang**\*, Mino Nakura†, Pratik Bhowal†, Chia-Liang Kuo†, Yi-Ting Chen, Zackory Erickson‡, David Held‡
+
+[RSS 2025](https://roboticsconference.org/)
 
 [[Website]](https://articubot.github.io/) [[paper]](https://arxiv.org/abs/2503.03045)
 
